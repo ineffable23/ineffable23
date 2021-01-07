@@ -1,6 +1,4 @@
-<h1 align="center"> Hello! <br>
-I'm Harshita Verma <br>
-<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="80"></h1>
+<h1 align="center"> Hello! I'm Harshita Verma <img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="80"></h1>
 
 ![Total Views](https://views.whatilearened.today/views/github/ineffable23/ineffable23.svg)
 [![Twitter](https://img.shields.io/badge/-whyIneffable23-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/whyIneffable23/)](https://twitter.com/whyIneffable23)
