@@ -4,6 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-whyIneffable23-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/whyIneffable23/)](https://twitter.com/whyIneffable23)
 [![GitHub ineffable23](https://img.shields.io/badge/-ineffable23-grey?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ineffable23/)](https://github.com/ineffable23)
 [![Linkedin](https://img.shields.io/badge/-Ineffable23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ineffable23)](https://www.linkedin.com/in/Ineffable23)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Ineffable23-red)](https://github.com/ineffable23)
 
 *I'm a curious learner with an experience in wide range of disciplines.* 
 
@@ -20,8 +21,11 @@
 
 - 🌱 My domain includes `Front-end Web Development` & `UX/UI`
 
-- <p> :computer: I've my hands on: 
-        HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="15">, CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="10">, Javascript <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/js1_0.png?itok=9fCD5b30" width="15">, C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" width="15">, C <img src="https://hackr.io/tutorials/c/logo-c.svg?ver=1553674176" width="15">, Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15"></p>
+- <p> :computer: I've my hands on:  
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=ffffff"> <br />
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
 
 - 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/ineffable23/) & [Twitter](https://twitter.com/whyIneffable23) 
 
@@ -31,4 +35,18 @@
 
 - <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun facts: *I love writting quotes and microtales <img src="https://media.giphy.com/media/YLsf4Kvdsa9GivKbEZ/giphy.gif" width="40"> and solving real world problems <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width="40"> .*
 
-     <img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="100"><div>![Untitled design](https://user-images.githubusercontent.com/49369387/103943476-2a162b80-5158-11eb-993d-9c53ac19f2b6.gif)
+### My Stats
+
+![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=ineffable23&count_private=true&show_icons=true&theme=radical)
+
+
+### My Most used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineffable23&show_icons=true&theme=radical)
+
+
+<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="100">
+
+
+        
+
