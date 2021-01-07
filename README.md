@@ -1,4 +1,6 @@
-<h1 align="center"> Hello! I'm Harshita Verma <img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="80"></h1>
+<h1 align="center"> Hello! <br>
+I'm Harshita Verma <br>
+<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="80"></h1>
 
 ![Total Views](https://views.whatilearened.today/views/github/ineffable23/ineffable23.svg)
 [![Twitter](https://img.shields.io/badge/-whyIneffable23-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/whyIneffable23/)](https://twitter.com/whyIneffable23)
@@ -13,7 +15,7 @@
 <img align='right' src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="400">
 
 
-- 💻 I'm currently working on my portfolio website
+- 💻 I'm currently working on my personal website.
 
 - <p>:octocat: I've previously worked with <a href="https://github.com/Surajbokde/web-development-Resource">@Surajbokde</a> as a participant in <a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code 2020 </a> <img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" width="25"> &  <a href="https://github.com/FOSS-Cell-GECPKD">FOSS-Cell-GECPKD</a> as a mentor in <a href="https://github.com/FOSS-Cell-GECPKD/OpenHack-20">OpenHack 2020 </a> <img src="https://avatars1.githubusercontent.com/u/70442962?s=280&v=4" width="25"> </p>
 
