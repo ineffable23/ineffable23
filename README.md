@@ -37,12 +37,11 @@
 
 ### My Stats
 
-![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=ineffable23&count_private=true&show_icons=true&theme=radical)
-
+![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ineffable23&theme=vue&show_icons=true)
 
 ### My Most used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineffable23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineffable23&show_icons=true&theme=vue)
 
 
 <img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="100">
