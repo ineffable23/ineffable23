@@ -19,7 +19,7 @@
 
 - ❤ I'm currently into open source contribution.
 
-- 🌱 My domain includes `Front-end Web Development` & `UX/UI`
+- 👩‍💻 My domain includes `Front-end Web Development` & `UX/UI`
 
 - <p> :computer: I've my hands on:  
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=ffffff"> <br />
