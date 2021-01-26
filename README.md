@@ -13,9 +13,9 @@
 <img align='right' src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="400">
 
 
-- 💻 I'm currently working on my personal website.
+- 💻 I'm currently working as a mentor at <a href="https://jwoc2k20.tech/">JGEC Winter of Code 2021.</a>
 
-- <p>:octocat: I've previously worked with <a href="https://github.com/Surajbokde/web-development-Resource">@Surajbokde</a> as a participant in <a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code 2020 </a> <img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" width="25"> &  <a href="https://github.com/FOSS-Cell-GECPKD">FOSS-Cell-GECPKD</a> as a mentor in <a href="https://github.com/FOSS-Cell-GECPKD/OpenHack-20">OpenHack 2020 </a> <img src="https://avatars1.githubusercontent.com/u/70442962?s=280&v=4" width="25"> </p>
+- <p>:octocat: I've previously worked with <a href="https://github.com/Surajbokde/web-development-Resource">@Surajbokde</a> as a participant in <a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code 2020 </a> &  <a href="https://github.com/FOSS-Cell-GECPKD">FOSS-Cell-GECPKD</a> as a mentor in <a href="https://github.com/FOSS-Cell-GECPKD/OpenHack-20">OpenHack 2020 </a> <img src="https://avatars1.githubusercontent.com/u/70442962?s=280&v=4" width="25"> </p>
 
 - ❤ I'm currently into open source contribution.
 
