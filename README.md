@@ -38,13 +38,11 @@
 ### My Stats
 
 ![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ineffable23&theme=vue&show_icons=true)
-
-### My Most used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineffable23&show_icons=true&theme=vue)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ineffable23" />
 
 
-<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="100">
+
+
 
 
         
