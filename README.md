@@ -38,7 +38,7 @@
 ### My Stats
 
 ![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ineffable23&theme=vue&show_icons=true)
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ineffable23" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ineffable23" />
 
 
 
