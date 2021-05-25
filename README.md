@@ -40,6 +40,9 @@
 ![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ineffable23&theme=vue&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ineffable23" />
 
+### My Most used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineffable23&show_icons=true&theme=vue)
 
 
 
