@@ -15,7 +15,7 @@
 
 - 💻 I'm a web development intern at at <a href="https://skillshipfoundation.com/">Skillship Foundation</a> and currently working as a mentor at <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code 2021.</a>
 
-- <p>:octocat: I've previously worked with <a href="https://github.com/Surajbokde/web-development-Resource">@Surajbokde</a> as a participant in <a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code 2020. </a> and also participated in  <a href="https://twitter.com/Sanscriptindia/status/1305586316151644160?s=19">Sanscript Autumn of Opensource 2020. </a></p>
+- <p>:octocat: I've previously worked with <a href="https://github.com/Surajbokde/web-development-Resource">@Surajbokde</a> as a participant in <a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code 2020</a> and also participated in  <a href="https://twitter.com/Sanscriptindia/status/1305586316151644160?s=19">Sanscript Autumn of Opensource 2020. </a></p>
 
 - <p> I've mentored at <a href="https://github.com/FOSS-Cell-GECPKD/OpenHack-20">OpenHack 2020 </a> <img src="https://avatars1.githubusercontent.com/u/70442962?s=280&v=4" width="25"><a href="https://github.com/FOSS-Cell-GECPKD">[FOSS-Cell-GECPKD]</a> & <a href="https://jwoc2k20.tech/">JGEC Winter of Code 2021.</a>
 
