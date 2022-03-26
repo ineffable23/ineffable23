@@ -33,7 +33,7 @@
 
 - <img src="https://media.giphy.com/media/H55Do0MHw8zi7uO1jC/giphy.gif" width="50"> Follow me on [GitHub](https://github.com/ineffable23) <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30">
 
-- <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun facts: *I love writting quotes & microtales <img src="https://media.giphy.com/media/YLsf4Kvdsa9GivKbEZ/giphy.gif" width="40"> and solving real world problems <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width="40"> .*
+- <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun facts: I love writting quotes & microtales <img src="https://media.giphy.com/media/YLsf4Kvdsa9GivKbEZ/giphy.gif" width="40"> and solving real world problems <img src="https://media.giphy.com/media/KzccVmHEzmNLbc3Tv2/giphy.gif" width="40"> 
 
 ### My Stats
 
