@@ -3,14 +3,14 @@
 ![Total Views](https://views.whatilearened.today/views/github/ineffable23/ineffable23.svg)
 [![Twitter](https://img.shields.io/badge/-whyIneffable23-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/whyIneffable23/)](https://twitter.com/whyIneffable23)
 [![GitHub ineffable23](https://img.shields.io/badge/-ineffable23-grey?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ineffable23/)](https://github.com/ineffable23)
-[![Linkedin](https://img.shields.io/badge/-Ineffable23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ineffable23)](https://www.linkedin.com/in/Ineffable23)
-[![Qwiklabs](https://img.shields.io/badge/-Ineffable23-blue?style=flat-square&logo=Qwiklabs&logoColor=yellow&link=https://www.qwiklabs.com/public_profiles/48194396-2f27-4372-916f-3353e8bbe6b5)](https://www.qwiklabs.com/public_profiles/48194396-2f27-4372-916f-3353e8bbe6b5)
+[![Linkedin](https://img.shields.io/badge/-ineffable23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ineffable23/)](https://www.linkedin.com/in/ineffable23/)
+[![Qwiklabs](https://img.shields.io/badge/-ineffable23-blue?style=flat-square&logo=Qwiklabs&logoColor=yellow&link=https://www.qwiklabs.com/public_profiles/48194396-2f27-4372-916f-3353e8bbe6b5)](https://www.qwiklabs.com/public_profiles/48194396-2f27-4372-916f-3353e8bbe6b5)
 <!-- .
 <a href="https://www.twitter.com/whyIneffable23/" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=Twitter&logoColor=white&alt=Twitter" /></a>
 <a href="https://www.linkedin.com/in/Ineffable23" target="blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&alt=Linkedin" /></a>
 <a href="https://www.qwiklabs.com/public_profiles/48194396-2f27-4372-916f-3353e8bbe6b5" target="blank"><img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklab-%2300acee.svg?&style=for-the-badge&logo=Qwiklab&logoColor=yellow&alt=Qwiklab" /></a> -->
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Ineffable23-orange)](https://github.com/ineffable23)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-ineffable23-orange)](https://github.com/ineffable23)
 
 *I'm a curious learner with an experience in wide range of disciplines.* 
 
