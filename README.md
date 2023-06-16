@@ -19,8 +19,8 @@
 <img align='right' src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="400">
 
 
-- 💻 I'm a software development intern at <a href="https://ischoolconnect.com/en/">iSchoolConnect</a>.
-- ☁ I'm a <a href="https://cloud.google.com/">Google Cloud Ready Facilitator</a>.
+- 💻 I've worked as a software development intern at <a href="https://ischoolconnect.com/en/">iSchoolConnect</a>.
+- ☁ I was <a href="https://cloud.google.com/">Google Cloud Ready Facilitator [2022]</a>.
 
 - <p>:octocat: I've previously worked with <a href="https://github.com/Surajbokde/web-development-Resource">@Surajbokde</a> as a participant in <a href="https://kwoc.kossiitkgp.org/">Kharagpur Winter of Code 2020</a> and also participated in  <a href="https://twitter.com/Sanscriptindia/status/1305586316151644160?s=19">Sanscript Autumn of Opensource 2020. </a></p>
 
